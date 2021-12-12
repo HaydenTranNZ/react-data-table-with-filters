@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-data-table-with-filters/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-data-table-with-filters/static/js/main.5212ffad.chunk.js",
+    "main.js.map": "/react-data-table-with-filters/static/js/main.5212ffad.chunk.js.map",
+    "runtime-main.js": "/react-data-table-with-filters/static/js/runtime-main.9e683b14.js",
+    "runtime-main.js.map": "/react-data-table-with-filters/static/js/runtime-main.9e683b14.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/react-data-table-with-filters/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.a3dc28c4.chunk.js": "/react-data-table-with-filters/static/js/2.a3dc28c4.chunk.js",
+    "static/js/2.a3dc28c4.chunk.js.map": "/react-data-table-with-filters/static/js/2.a3dc28c4.chunk.js.map",
+    "static/js/3.54b14d10.chunk.js": "/react-data-table-with-filters/static/js/3.54b14d10.chunk.js",
+    "static/js/3.54b14d10.chunk.js.map": "/react-data-table-with-filters/static/js/3.54b14d10.chunk.js.map",
+    "index.html": "/react-data-table-with-filters/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/react-data-table-with-filters/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-data-table-with-filters/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a3dc28c4.chunk.js.LICENSE.txt": "/react-data-table-with-filters/static/js/2.a3dc28c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e683b14.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.a3dc28c4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5212ffad.chunk.js"
+  ]
+}
