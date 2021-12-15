@@ -17,6 +17,6 @@ https://haydentrannz.github.io/react-data-table-with-filters/
 
 # Source Code
 
-The source is in the master branch
+The source code is in the master branch
 
 https://github.com/HaydenTranNZ/react-data-table-with-filters/tree/master
