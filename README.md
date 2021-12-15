@@ -15,3 +15,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. index.js, index.css: Homepage of ReactJS that use React components and render HTML DOM
 2. data-table.js: The main code file that includes all React components for this exercise
 3. make-data.js: The code file to generate random data for the table
+
+
+# Demo Page
+
+https://haydentrannz.github.io/react-data-table-with-filters/
