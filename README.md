@@ -9,6 +9,7 @@ Each column of this data table includes a suitable filter (whether it is input f
 1. "react-table" for generating data table
 2. "match-sorter" for filtering data through input
 3. "react-boostrap" for implementing boostrap to DOM
+4. "namor" for a random name generator
 
 # Demo Page
 
