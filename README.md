@@ -13,3 +13,9 @@ Each column of this data table includes a suitable filter (whether it is input f
 # Demo Page
 
 https://haydentrannz.github.io/react-data-table-with-filters/
+
+# Source Code
+
+The source is in the master branch
+
+https://github.com/HaydenTranNZ/react-data-table-with-filters/tree/master
